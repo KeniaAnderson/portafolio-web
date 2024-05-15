@@ -12,10 +12,10 @@ Este portafolio se hizo con las herramientas de:
 [Proyecto en linea](https://thriving-alfajores-d79141.netlify.app/#aficiones)
 
 — Capturas
-![Seccion yo](/ex/assets/yo.png)
-![Seccion Habilidades](/ex/assets/habilidades.png)
-![Seccion habilidades](/ex/assets/proyecto.png)
-![Seccion aficion](/ex/assets/aficion.png)
+![Seccion yo](/assets/yo.png)
+![Seccion Habilidades](/assets/habilidades.png)
+![Seccion habilidades](/assets/proyecto.png)
+![Seccion aficion](/assets/aficion.png)
 
 
 
