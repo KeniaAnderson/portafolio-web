@@ -9,7 +9,7 @@ Este portafolio se hizo con las herramientas de:
 — CSS
 — Js
 
-[Proyecto en linea](https://thriving-alfajores-d79141.netlify.app/#aficiones)
+[Proyecto en linea](https://thriving-alfajores-d79141.netlify.app)
 
 — Capturas
 ![Seccion yo](/assets/yo.png)
