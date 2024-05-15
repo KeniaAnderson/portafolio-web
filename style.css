@@ -1,0 +1,92 @@
+nav, header {
+    color: white;
+}
+
+#navbarNav a{
+    color:white;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: white;
+    background-color: cornflowerblue;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.icono-contacto {
+    font-size: 2rem; 
+    color: black;
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.8rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
+}
+
+#icono-footer{
+    font-size: 5rem; 
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url('fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
+  
+
+#iconos a {
+    padding-top: 16px;
+}
+
+.yo{
+   float: left;
+    border-radius: 50%;
+    min-width: 300px;
+    max-width: 200px;
+}
+
+.carousel-item img {
+    max-width: 700px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    margin: 200px auto;
+    margin-left: 400px; /* Ajusta el margen izquierdo */
+    margin-right: 400px;
+    margin-top: 30px; 
+}
+.carousel-caption {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    padding: 20px; /* Espaciado interior */
+    border-radius: 10px; /* Bordes redondeados */
+    max-width: 500px; /* Ancho máximo del texto */
+    position: absolute; /* Posición absoluta para centrarlo */
+    bottom: 20px; /* Espaciado inferior */
+    left: 50%; /* Centrado horizontal */
+    transform: translateX(-50%); /* Centrado horizontal */
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Color oscuro */
+    color: #fff; /* Texto blanco */
+}
